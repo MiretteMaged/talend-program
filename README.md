@@ -13,3 +13,4 @@
 5. The main method in class com.sumerge.grad.program.main.Main will run
 6. You can choose the main class by opening the MANIFEST.mf file and replacing the existing class with the one you wish to run
 "# talend-program" 
+"# talend-program" 
